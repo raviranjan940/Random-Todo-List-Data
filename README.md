@@ -1,2 +1,2 @@
-## Ramdom-Todo-Data-List with API call
-# Pagination Feature is also added
+# Ramdom-Todo-Data-List with API call
+## Pagination Feature is also added
